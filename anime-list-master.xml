@@ -27023,7 +27023,7 @@
   <anime anidbid="9788" tvdbid="81115" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Magical Girl Lyrical Nanoha Reflection</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-16;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-12;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9789" tvdbid="219701" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
@@ -27126,7 +27126,7 @@
   <anime anidbid="9826" tvdbid="267440" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Shingeki no Kyojin OAD</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;2-12;3-13;4-16;5-17;6-20;7-21;8-22;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;2-12;3-13;4-16;5-17;6-20;7-21;8-22</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9828" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
@@ -39560,9 +39560,6 @@
   </anime>
   <anime anidbid="14421" tvdbid="344315" defaulttvdbseason="0" episodeoffset="2" tmdbid="" imdbid="">
     <name>Persona 5 the Animation (2018)</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-3;2-4;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="14424" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Inazuma Eleven: Reloaded - Soccer no Henkaku</name>
@@ -39726,11 +39723,8 @@
   <anime anidbid="14479" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Mushikago no Cagaster</name>
   </anime>
-  <anime anidbid="14480" tvdbid="313185" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="14480" tvdbid="313185" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="">
     <name>Final Fantasy XV: Episode Ardyn - Prologue</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="14481" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Altered Carbon: Resleeved</name>
