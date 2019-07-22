@@ -25973,6 +25973,9 @@
   <anime anidbid="11543" tvdbid="305100" defaulttvdbseason="1">
     <name>Shounen Maid</name>
   </anime>
+  <anime anidbid="11544" tvdbid="362791" defaulttvdbseason="1">
+    <name>Manaria Friends</name>
+  </anime>
   <anime anidbid="11547" tvdbid="304490" defaulttvdbseason="1">
     <name>Sekkou Boys</name>
   </anime>
@@ -28004,6 +28007,9 @@
   <anime anidbid="13285" tvdbid="hentai" defaulttvdbseason="1">
     <name>Imouto Bitch ni Shiboraretai</name>
   </anime>
+  <anime anidbid="13286" tvdbid="284131" defaulttvdbseason="0" episodeoffset="8" imdbid="tt9089294">
+    <name>Gekijouban Nanatsu no Taizai: Tenkuu no Torawarebito</name>
+  </anime>
   <anime anidbid="13291" tvdbid="78881" defaulttvdbseason="2">
     <name>Basilisk: Ouka Ninpou Chou</name>
   </anime>
@@ -28943,6 +28949,9 @@
       <studio>Bones</studio>
     </supplemental-info>
   </anime>
+  <anime anidbid="14232" tvdbid="354298" defaulttvdbseason="1">
+    <name>Endro~!</name>
+  </anime>
   <anime anidbid="14234" tvdbid="358181" defaulttvdbseason="1">
     <name>Kono Oto Tomare!</name>
   </anime>
@@ -29131,6 +29140,9 @@
   </anime>
   <anime anidbid="14518" tvdbid="hentai" defaulttvdbseason="1">
     <name>Kami Machi Sana-chan The Animation</name>
+  </anime>
+  <anime anidbid="14519" tvdbid="360010" defaulttvdbseason="1">
+    <name>Midara na Ao-chan wa Benkyou ga Dekinai</name>
   </anime>
   <anime anidbid="14522" tvdbid="360011" defaulttvdbseason="1">
     <name>Senryuu Shoujo</name>
